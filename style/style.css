@@ -1,0 +1,40 @@
+body {
+    background-color: beige;
+}
+.header {
+    color:blueviolet;
+    background-color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+ul {
+    color: orange;
+}
+
+.title  {
+    color: plum;
+    background-color: aqua;
+}
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: purple;
+    font-size: 20px;
+
+}
+
+img {
+    margin: 80px;
+    padding: 30px;
+}
+
+.ingredients {
+    color: blueviolet;
+}
+
+.steps {
+    color: blueviolet;
+}
+
+span {
+    color: black;
+}
